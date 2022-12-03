@@ -6,7 +6,7 @@
 
 ## Sources
 
-- Data:[Hawaii]()
+- Data: [Hawaii_Data](https://github.com/manasidek/Surfs_up/blob/main/hawaii.sqlite)
 
 - Softwares: Python 3.7(SQLite Library), Jupyter Notebook 6.4
 
@@ -14,15 +14,15 @@
 
 ### Results
 
-- The link to the script of the analysis is :[Surfs_up_Challenge]()
+- The link to the script of the analysis is : [Surfs_up_Challenge](https://github.com/manasidek/Surfs_up/blob/main/Surfs_Up_Challenge.ipynb)
 
 - The summary statistics of June are 
 
-![June_Summary]()
+![June_Summary](https://github.com/manasidek/Surfs_up/blob/main/images/june_summary.png)
 
 - The summary statistics of December are 
 
-![Dec_Summary]()
+![Dec_Summary](https://github.com/manasidek/Surfs_up/blob/main/images/Dec_summary.png)
 
 - Oberserving the summary statistics above, the number of temparature obervations in June are higher than in December. Therefore, the June statistics maybe more accurate than December statistics.
 
