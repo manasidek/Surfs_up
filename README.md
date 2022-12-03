@@ -2,7 +2,7 @@
 
 ## Overview of the Statistical analysis
 
-- The purpose of the analysis is to observe temperature trends to determine if the surf and ice cream shop business is sustainable year-round.
+- The purpose of the analysis is to observe temperature trends to determine if the surf and ice cream shop business in Oahu is sustainable year-round.
 
 ## Sources
 
